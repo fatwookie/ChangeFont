@@ -23,4 +23,4 @@ Windows Registry Editor Version 5.00
 "Segoe UI"="Ubuntu"
 ```
 5. Save this file and merge it.
-6. Reboot Windows. You're font should now be changed.
+6. Reboot Windows. Your font should now be changed.
